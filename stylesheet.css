@@ -1,5 +1,5 @@
 *{
-  padding: min (5em, 8%);
+  padding: 7px;
   margin: -18px auto;
 }
 body {
@@ -53,4 +53,5 @@ th, td {
 
 .Enlaces{
   font-style: italic;
+
 }
